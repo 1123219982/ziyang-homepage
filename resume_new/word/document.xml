@@ -1,0 +1,3136 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData" mc:Ignorable="w14 w15 wp14">
+  <w:body>
+    <w:p w14:paraId="7303CB09">
+      <w:pPr>
+        <w:spacing w:line="600" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="44"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:drawing>
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251668480" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+            <wp:simplePos x="0" y="0"/>
+            <wp:positionH relativeFrom="column">
+              <wp:posOffset>5861050</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="paragraph">
+              <wp:posOffset>44450</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="647700" cy="944880"/>
+            <wp:effectExtent l="0" t="0" r="0" b="7620"/>
+            <wp:wrapSquare wrapText="bothSides"/>
+            <wp:docPr id="915785689" name="图片 11"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="915785689" name="图片 11"/>
+                    <pic:cNvPicPr>
+                      <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                    </pic:cNvPicPr>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId4" cstate="print">
+                      <a:extLst>
+                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                          <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+                        </a:ext>
+                      </a:extLst>
+                    </a:blip>
+                    <a:srcRect/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="647700" cy="944880"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                    <a:ln>
+                      <a:noFill/>
+                    </a:ln>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="黑体" w:hAnsi="黑体" w:eastAsia="黑体" w:cs="Times New Roman"/>
+          <w:sz w:val="52"/>
+          <w:szCs w:val="52"/>
+        </w:rPr>
+        <w:t>林子阳</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="44"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="44"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t xml:space="preserve">                  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>应聘职位：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>C++开发工</w:t>
+      </w:r>
+      <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+      <w:bookmarkEnd w:id="0"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>程师</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="44"/>
+        </w:rPr>
+        <w:t xml:space="preserve">        </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7391164C">
+      <w:pPr>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>性别：男</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">   </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">   年龄：2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>4</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">周岁 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">   电话：17888765010</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">    </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>邮箱</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>：1123219982@qq.com</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">   </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">                           </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="20114F88">
+      <w:pPr>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="8"/>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="45720" distB="45720" distL="114300" distR="114300" simplePos="0" relativeHeight="251665408" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="column">
+                  <wp:posOffset>-203200</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>67945</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="990600" cy="1404620"/>
+                <wp:effectExtent l="0" t="0" r="0" b="6350"/>
+                <wp:wrapNone/>
+                <wp:docPr id="217" name="文本框 2"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvSpPr txBox="1">
+                        <a:spLocks noChangeArrowheads="1"/>
+                      </wps:cNvSpPr>
+                      <wps:spPr bwMode="auto">
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="990600" cy="1404620"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:ln w="9525">
+                          <a:noFill/>
+                          <a:miter lim="800000"/>
+                        </a:ln>
+                      </wps:spPr>
+                      <wps:txbx>
+                        <w:txbxContent>
+                          <w:p w14:paraId="7FB6D863">
+                            <w:pPr>
+                              <w:ind w:firstLine="105" w:firstLineChars="50"/>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                              </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:highlight w:val="lightGray"/>
+                              </w:rPr>
+                              <w:t>教育背景</w:t>
+                            </w:r>
+                          </w:p>
+                        </w:txbxContent>
+                      </wps:txbx>
+                      <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                        <a:spAutoFit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+                <wp14:sizeRelH relativeFrom="page">
+                  <wp14:pctWidth>0</wp14:pctWidth>
+                </wp14:sizeRelH>
+                <wp14:sizeRelV relativeFrom="margin">
+                  <wp14:pctHeight>20000</wp14:pctHeight>
+                </wp14:sizeRelV>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202" style="position:absolute;left:0pt;margin-left:-16pt;margin-top:5.35pt;height:110.6pt;width:78pt;z-index:251665408;mso-width-relative:page;mso-height-relative:margin;mso-height-percent:200;" filled="f" stroked="f" coordsize="21600,21600" o:gfxdata="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 AAYAWQEAAL4FAAAAAA== ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke on="f" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+                <v:textbox style="mso-fit-shape-to-text:t;">
+                  <w:txbxContent>
+                    <w:p w14:paraId="7FB6D863">
+                      <w:pPr>
+                        <w:ind w:firstLine="105" w:firstLineChars="50"/>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:highlight w:val="lightGray"/>
+                        </w:rPr>
+                        <w:t>教育背景</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:txbxContent>
+                </v:textbox>
+              </v:shape>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5324D9DD">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251659264" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:posOffset>-34290</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>101600</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="6725285" cy="15875"/>
+                <wp:effectExtent l="0" t="0" r="37465" b="22860"/>
+                <wp:wrapNone/>
+                <wp:docPr id="10" name="直接连接符 10"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvCnPr/>
+                      <wps:spPr>
+                        <a:xfrm flipV="1">
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="6725322" cy="15857"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="line">
+                          <a:avLst/>
+                        </a:prstGeom>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="1">
+                          <a:schemeClr val="dk1"/>
+                        </a:lnRef>
+                        <a:fillRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="tx1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr/>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:line id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="20" style="position:absolute;left:0pt;flip:y;margin-left:-2.7pt;margin-top:8pt;height:1.25pt;width:529.55pt;mso-position-horizontal-relative:margin;z-index:251659264;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 b2MueG1sUEsFBgAAAAAGAAYAWQEAAJQFAAAAAA== ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke color="#000000 [3200]" joinstyle="round"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:line>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t xml:space="preserve">      </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="47C6DBBC">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>2024</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">.09 – </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>2027</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">.06              </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">重庆邮电大学  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">           </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">信息与通信工程 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">        </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">          工学硕士</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="32E89D14">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wpg">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251664384" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:posOffset>-119380</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>191135</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="6849110" cy="298450"/>
+                <wp:effectExtent l="0" t="0" r="27940" b="6350"/>
+                <wp:wrapNone/>
+                <wp:docPr id="1" name="组合 1"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup">
+                    <wpg:wgp>
+                      <wpg:cNvGrpSpPr/>
+                      <wpg:grpSpPr>
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="6849110" cy="298450"/>
+                          <a:chOff x="-6350" y="88964"/>
+                          <a:chExt cx="6849611" cy="299084"/>
+                        </a:xfrm>
+                      </wpg:grpSpPr>
+                      <wps:wsp>
+                        <wps:cNvPr id="2" name="直接连接符 2"/>
+                        <wps:cNvCnPr/>
+                        <wps:spPr>
+                          <a:xfrm flipV="1">
+                            <a:off x="86061" y="309066"/>
+                            <a:ext cx="6757200" cy="22905"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                        </wps:spPr>
+                        <wps:style>
+                          <a:lnRef idx="1">
+                            <a:schemeClr val="dk1"/>
+                          </a:lnRef>
+                          <a:fillRef idx="0">
+                            <a:schemeClr val="dk1"/>
+                          </a:fillRef>
+                          <a:effectRef idx="0">
+                            <a:schemeClr val="dk1"/>
+                          </a:effectRef>
+                          <a:fontRef idx="minor">
+                            <a:schemeClr val="tx1"/>
+                          </a:fontRef>
+                        </wps:style>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="3" name="文本框 2"/>
+                        <wps:cNvSpPr txBox="1">
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="-6350" y="88964"/>
+                            <a:ext cx="990671" cy="299084"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="9525">
+                            <a:noFill/>
+                            <a:miter lim="800000"/>
+                          </a:ln>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="03BC0532">
+                              <w:pPr>
+                                <w:rPr>
+                                  <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                  <w:color w:val="000000" w:themeColor="text1"/>
+                                  <w:highlight w:val="lightGray"/>
+                                  <w14:textFill>
+                                    <w14:solidFill>
+                                      <w14:schemeClr w14:val="tx1"/>
+                                    </w14:solidFill>
+                                  </w14:textFill>
+                                </w:rPr>
+                              </w:pPr>
+                              <w:r>
+                                <w:rPr>
+                                  <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                  <w:color w:val="000000" w:themeColor="text1"/>
+                                  <w:highlight w:val="lightGray"/>
+                                  <w14:textFill>
+                                    <w14:solidFill>
+                                      <w14:schemeClr w14:val="tx1"/>
+                                    </w14:solidFill>
+                                  </w14:textFill>
+                                </w:rPr>
+                                <w:t>专业技能</w:t>
+                              </w:r>
+                            </w:p>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                          <a:spAutoFit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                    </wpg:wgp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:group id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="203" style="position:absolute;left:0pt;margin-left:-9.4pt;margin-top:15.05pt;height:23.5pt;width:539.3pt;mso-position-horizontal-relative:margin;z-index:251664384;mso-width-relative:page;mso-height-relative:page;" coordorigin="-6350,88964" coordsize="6849611,299084" o:gfxdata="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 UEsFBgAAAAAGAAYAWQEAAOQGAAAAAA== ">
+                <o:lock v:ext="edit" aspectratio="f"/>
+                <v:line id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="20" style="position:absolute;left:86061;top:309066;flip:y;height:22905;width:6757200;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="UEsDBAoAAAAAAIdO4kAAAAAAAAAAAAAAAAAEAAAAZHJzL1BLAwQUAAAACACHTuJA8Hc0orsAAADa AAAADwAAAGRycy9kb3ducmV2LnhtbEWPQWvCQBSE7wX/w/IEb3XXCKWmriKiIhSEatrza/aZBLNv Q3aN+u9dQfA4zMw3zHR+tbXoqPWVYw2joQJBnDtTcaEhO6zfP0H4gGywdkwabuRhPuu9TTE17sI/ 1O1DISKEfYoayhCaVEqfl2TRD11DHL2jay2GKNtCmhYvEW5rmSj1IS1WHBdKbGhZUn7an62Gxd/3 arzr/q2rzaTIfo3N1CbRetAfqS8Qga7hFX62t0ZDAo8r8QbI2R1QSwMEFAAAAAgAh07iQDMvBZ47 AAAAOQAAABAAAABkcnMvc2hhcGV4bWwueG1ss7GvyM1RKEstKs7Mz7NVMtQzUFJIzUvOT8nMS7dV Cg1x07VQUiguScxLSczJz0u1VapMLVayt+PlAgBQSwMECgAAAAAAh07iQAAAAAAAAAAAAAAAAAYA AABfcmVscy9QSwMEFAAAAAgAh07iQNVcJijMAAAAjwEAAAsAAABfcmVscy8ucmVsc6WQsWoDMQyG 90DfwWjv+ZKhlBBftkLWkEJXYevuTM6Wscw1efu4lEIvZMugQb/Q9wnt9pcwqZmyeI4G1k0LiqJl 5+Ng4PP08foOSgpGhxNHMnAlgX33stodacJSl2T0SVSlRDEwlpK2WosdKaA0nCjWSc85YKltHnRC e8aB9KZt33T+z4BuwVQHZyAf3AbU6Zqq+Y4dvM0s3JfGctDc994+omoZMdFXmCoG80DFgMvym9bT mlqgH5vXT5odf8cjzUvxT5hp/vPqxRu7G1BLAwQUAAAACACHTuJAWuMRZvcAAADiAQAAEwAAAFtD b250ZW50X1R5cGVzXS54bWyVkU1PxCAQhu8m/gcyV9NSPRhjSvdg9ahG1x8wgWlLtgXCYN3999L9 uBjXxCPMvM/7BOrVdhrFTJGtdwquywoEOe2Ndb2Cj/VTcQeCEzqDo3ekYEcMq+byol7vArHIaccK hpTCvZSsB5qQSx/I5Unn44QpH2MvA+oN9iRvqupWau8SuVSkhQFN3VKHn2MSj9t8fTCJNDKIh8Pi 0qUAQxitxpRN5ezMj5bi2FDm5H6HBxv4KmuA/LVhmZwvOOZe8tNEa0i8YkzPOGUNaSJL479cpLn8 G7JYTlz4rrOayjZym2NvNJ+sztF5wEAZ/V/8+5I7weX+h5pvUEsBAhQAFAAAAAgAh07iQFrjEWb3 AAAA4gEAABMAAAAAAAAAAQAgAAAAjAIAAFtDb250ZW50X1R5cGVzXS54bWxQSwECFAAKAAAAAACH TuJAAAAAAAAAAAAAAAAABgAAAAAAAAAAABAAAABzAQAAX3JlbHMvUEsBAhQAFAAAAAgAh07iQNVc JijMAAAAjwEAAAsAAAAAAAAAAQAgAAAAlwEAAF9yZWxzLy5yZWxzUEsBAhQACgAAAAAAh07iQAAA AAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAGRycy9QSwECFAAUAAAACACHTuJA8Hc0orsAAADa AAAADwAAAAAAAAABACAAAAAiAAAAZHJzL2Rvd25yZXYueG1sUEsBAhQAFAAAAAgAh07iQDMvBZ47 AAAAOQAAABAAAAAAAAAAAQAgAAAACgEAAGRycy9zaGFwZXhtbC54bWxQSwUGAAAAAAYABgBbAQAA tAMAAAAA ">
+                  <v:fill on="f" focussize="0,0"/>
+                  <v:stroke color="#000000 [3200]" joinstyle="round"/>
+                  <v:imagedata o:title=""/>
+                  <o:lock v:ext="edit" aspectratio="f"/>
+                </v:line>
+                <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202" style="position:absolute;left:-6350;top:88964;height:299084;width:990671;" filled="f" stroked="f" coordsize="21600,21600" o:gfxdata="UEsDBAoAAAAAAIdO4kAAAAAAAAAAAAAAAAAEAAAAZHJzL1BLAwQUAAAACACHTuJAIsncM7sAAADa AAAADwAAAGRycy9kb3ducmV2LnhtbEWPwWrDMBBE74X8g9hAb43klpbiRAkhaSGHXpq498XaWCbW yljb2Pn7qlDocZiZN8xqM4VOXWlIbWQLxcKAIq6ja7mxUJ3eH15BJUF22EUmCzdKsFnP7lZYujjy J12P0qgM4VSiBS/Sl1qn2lPAtIg9cfbOcQgoWQ6NdgOOGR46/WjMiw7Ycl7w2NPOU305fgcLIm5b 3Kq3kA5f08d+9KZ+xsra+3lhlqCEJvkP/7UPzsIT/F7JN0CvfwBQSwMEFAAAAAgAh07iQDMvBZ47 AAAAOQAAABAAAABkcnMvc2hhcGV4bWwueG1ss7GvyM1RKEstKs7Mz7NVMtQzUFJIzUvOT8nMS7dV Cg1x07VQUiguScxLSczJz0u1VapMLVayt+PlAgBQSwMECgAAAAAAh07iQAAAAAAAAAAAAAAAAAYA AABfcmVscy9QSwMEFAAAAAgAh07iQNVcJijMAAAAjwEAAAsAAABfcmVscy8ucmVsc6WQsWoDMQyG 90DfwWjv+ZKhlBBftkLWkEJXYevuTM6Wscw1efu4lEIvZMugQb/Q9wnt9pcwqZmyeI4G1k0LiqJl 5+Ng4PP08foOSgpGhxNHMnAlgX33stodacJSl2T0SVSlRDEwlpK2WosdKaA0nCjWSc85YKltHnRC e8aB9KZt33T+z4BuwVQHZyAf3AbU6Zqq+Y4dvM0s3JfGctDc994+omoZMdFXmCoG80DFgMvym9bT mlqgH5vXT5odf8cjzUvxT5hp/vPqxRu7G1BLAwQUAAAACACHTuJAWuMRZvcAAADiAQAAEwAAAFtD b250ZW50X1R5cGVzXS54bWyVkU1PxCAQhu8m/gcyV9NSPRhjSvdg9ahG1x8wgWlLtgXCYN3999L9 uBjXxCPMvM/7BOrVdhrFTJGtdwquywoEOe2Ndb2Cj/VTcQeCEzqDo3ekYEcMq+byol7vArHIaccK hpTCvZSsB5qQSx/I5Unn44QpH2MvA+oN9iRvqupWau8SuVSkhQFN3VKHn2MSj9t8fTCJNDKIh8Pi 0qUAQxitxpRN5ezMj5bi2FDm5H6HBxv4KmuA/LVhmZwvOOZe8tNEa0i8YkzPOGUNaSJL479cpLn8 G7JYTlz4rrOayjZym2NvNJ+sztF5wEAZ/V/8+5I7weX+h5pvUEsBAhQAFAAAAAgAh07iQFrjEWb3 AAAA4gEAABMAAAAAAAAAAQAgAAAAjAIAAFtDb250ZW50X1R5cGVzXS54bWxQSwECFAAKAAAAAACH TuJAAAAAAAAAAAAAAAAABgAAAAAAAAAAABAAAABzAQAAX3JlbHMvUEsBAhQAFAAAAAgAh07iQNVc JijMAAAAjwEAAAsAAAAAAAAAAQAgAAAAlwEAAF9yZWxzLy5yZWxzUEsBAhQACgAAAAAAh07iQAAA AAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAGRycy9QSwECFAAUAAAACACHTuJAIsncM7sAAADa AAAADwAAAAAAAAABACAAAAAiAAAAZHJzL2Rvd25yZXYueG1sUEsBAhQAFAAAAAgAh07iQDMvBZ47 AAAAOQAAABAAAAAAAAAAAQAgAAAACgEAAGRycy9zaGFwZXhtbC54bWxQSwUGAAAAAAYABgBbAQAA tAMAAAAA ">
+                  <v:fill on="f" focussize="0,0"/>
+                  <v:stroke on="f" miterlimit="8" joinstyle="miter"/>
+                  <v:imagedata o:title=""/>
+                  <o:lock v:ext="edit" aspectratio="f"/>
+                  <v:textbox style="mso-fit-shape-to-text:t;">
+                    <w:txbxContent>
+                      <w:p w14:paraId="03BC0532">
+                        <w:pPr>
+                          <w:rPr>
+                            <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                            <w:color w:val="000000" w:themeColor="text1"/>
+                            <w:highlight w:val="lightGray"/>
+                            <w14:textFill>
+                              <w14:solidFill>
+                                <w14:schemeClr w14:val="tx1"/>
+                              </w14:solidFill>
+                            </w14:textFill>
+                          </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                            <w:color w:val="000000" w:themeColor="text1"/>
+                            <w:highlight w:val="lightGray"/>
+                            <w14:textFill>
+                              <w14:solidFill>
+                                <w14:schemeClr w14:val="tx1"/>
+                              </w14:solidFill>
+                            </w14:textFill>
+                          </w:rPr>
+                          <w:t>专业技能</w:t>
+                        </w:r>
+                      </w:p>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:shape>
+              </v:group>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>2020</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">.09 – </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>2024</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">.06              </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">重庆邮电大学  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">           </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">   通信工程       </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">        </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">       工学学士</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">              </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="20DEE3AE">
+      <w:pPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="21D154C4">
+      <w:pPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5092B750">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>熟悉 C/C++ 编程，掌握指针、内存管理、面向对象、模板、STL 等核心特性，具备良好的代码实现、工程调试与问题定位能力。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5C6AAC8E">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>熟悉计算机网络基础，掌握 TCP/IP 协议栈，了解 TCP、UDP、HTTP、HTTPS 等常见协议及应用场景，具备网络通信相关开发基础。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A972CB2">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>熟悉 C++17 工程开发，了解 CMake 构建、模块化设计、接口解耦、单元测试与基础性能优化，具备独立开发 C++ 项目的实践经验。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="07C55DC7">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>了解多线程编程与并发处理思想，熟悉线程池、任务调度等基础机制，能够结合项目需求进行并行计算与性能优化。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4B2EAEAB">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>了解大模型推理基本流程，熟悉 Transformer、Attention、KV Cache、BPE 分词、量化推理等概念，具备 LLaMA/Qwen 类模型本地推理引擎开发经验。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5E7BBBB5">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>熟练使用 Git、Visual Studio、Linux 基础命令及常用开发工具，能够借助 Claude Code、Cursor、GitHub Copilot 等 AI 辅助工具提升编码、调试和测试效率。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="349CD1E6">
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="0"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251666432" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:posOffset>-86360</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>61595</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="989965" cy="374650"/>
+                <wp:effectExtent l="0" t="0" r="0" b="6350"/>
+                <wp:wrapNone/>
+                <wp:docPr id="4" name="文本框 2"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvSpPr txBox="1">
+                        <a:spLocks noChangeArrowheads="1"/>
+                      </wps:cNvSpPr>
+                      <wps:spPr bwMode="auto">
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="989965" cy="374650"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:ln w="9525">
+                          <a:noFill/>
+                          <a:miter lim="800000"/>
+                        </a:ln>
+                      </wps:spPr>
+                      <wps:txbx>
+                        <w:txbxContent>
+                          <w:p w14:paraId="48EF8396">
+                            <w:pPr>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:highlight w:val="lightGray"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                              <w:t>项目经历</w:t>
+                            </w:r>
+                          </w:p>
+                          <w:p w14:paraId="2797F573">
+                            <w:pPr>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                            </w:pPr>
+                          </w:p>
+                          <w:p w14:paraId="0BAFFC18">
+                            <w:pPr>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                            </w:pPr>
+                          </w:p>
+                          <w:p w14:paraId="7966EAD9">
+                            <w:pPr>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                            </w:pPr>
+                          </w:p>
+                        </w:txbxContent>
+                      </wps:txbx>
+                      <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                        <a:noAutofit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202" style="position:absolute;left:0pt;margin-left:-6.8pt;margin-top:4.85pt;height:29.5pt;width:77.95pt;mso-position-horizontal-relative:margin;z-index:251666432;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="f" coordsize="21600,21600" o:gfxdata="UEsDBAoAAAAAAIdO4kAAAAAAAAAAAAAAAAAEAAAAZHJzL1BLAwQUAAAACACHTuJAhW2f2dYAAAAI AQAADwAAAGRycy9kb3ducmV2LnhtbE2PzW7CMBCE75V4B2uRegM7QAOk2XAA9dqq9EfqzcRLEjVe R7Eh6dvXnNrjaEYz3+S70bbiSr1vHCMkcwWCuHSm4Qrh/e1ptgHhg2ajW8eE8EMedsXkLteZcQO/ 0vUYKhFL2GcaoQ6hy6T0ZU1W+7nriKN3dr3VIcq+kqbXQyy3rVwolUqrG44Lte5oX1P5fbxYhI/n 89fnSr1UB/vQDW5Uku1WIt5PE/UIItAY/sJww4/oUESmk7uw8aJFmCXLNEYRtmsQN3+1WII4IaSb Ncgil/8PFL9QSwMEFAAAAAgAh07iQC0aEysjAgAAKAQAAA4AAABkcnMvZTJvRG9jLnhtbK1TwY7T MBC9I/EPlu80bWm7bdR0tWy1CGmBlRY+wHWcxsL2GNttUj4A/oATF+77Xf0Oxk62VMtlD+QQeTz2 m3lvnpeXrVZkL5yXYAo6GgwpEYZDKc22oJ8/3byaU+IDMyVTYERBD8LTy9XLF8vG5mIMNahSOIIg xueNLWgdgs2zzPNaaOYHYIXBZAVOs4Ch22alYw2ia5WNh8NZ1oArrQMuvMfddZekPaJ7DiBUleRi DXynhQkdqhOKBaTka2k9XaVuq0rw8LGqvAhEFRSZhvTHIrjexH+2WrJ865itJe9bYM9p4QknzaTB oieoNQuM7Jz8B0pL7sBDFQYcdNYRSYogi9HwiTb3NbMicUGpvT2J7v8fLP+wv3NElgWdUGKYxoEf f/44/no4/v5OxlGexvocT91bPBfaN9CiaRJVb2+Bf/HEwHXNzFZcOQdNLViJ7Y3izezsaofjI8im eQ8l1mG7AAmorZyO2qEaBNFxNIfTaEQbCMfNxXyxmE0p4Zh6fTGZTdPoMpY/XrbOh7cCNImLgjqc fAJn+1sfYjMsfzwSaxm4kUql6StDGiwwHU/ThbOMlgGtrqQu6HwYv8SK5cr05CKfjlloN20v1gbK A9J00JkNnxouanDfKGnQaAX1X3fMCUrUO4NSLUaTSXRmCibTizEG7jyzOc8wwxGqoIGSbnkdkps7 TlcoaSUT3ah910nfKxooqdCbPTr0PE6n/j7w1R9QSwMECgAAAAAAh07iQAAAAAAAAAAAAAAAAAYA AABfcmVscy9QSwMEFAAAAAgAh07iQIoUZjzRAAAAlAEAAAsAAABfcmVscy8ucmVsc6WQwWrDMAyG 74O9g9F9cZrDGKNOL6PQa+kewNiKYxpbRjLZ+vbzDoNl9LajfqHvE//+8JkWtSJLpGxg1/WgMDvy MQcD75fj0wsoqTZ7u1BGAzcUOIyPD/szLra2I5ljEdUoWQzMtZZXrcXNmKx0VDC3zUScbG0jB12s u9qAeuj7Z82/GTBumOrkDfDJD6Aut9LMf9gpOiahqXaOkqZpiu4eVQe2ZY7uyDbhG7lGsxywGvAs GgdqWdd+BH1fv/un3tNHPuO61X6HjOuPV2+6HL8AUEsDBBQAAAAIAIdO4kB+5uUg9wAAAOEBAAAT AAAAW0NvbnRlbnRfVHlwZXNdLnhtbJWRQU7DMBBF90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5 TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdH jyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oDOlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYB B5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCayM +6KAU/53yWw5cuba1mrMm8BNir3hdLG61o5r1zj93/Ltkrp0q+WD6m9QSwECFAAUAAAACACHTuJA fublIPcAAADhAQAAEwAAAAAAAAABACAAAACSBAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQIUAAoA AAAAAIdO4kAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAEAAAAHQDAABfcmVscy9QSwECFAAUAAAACACH TuJAihRmPNEAAACUAQAACwAAAAAAAAABACAAAACYAwAAX3JlbHMvLnJlbHNQSwECFAAKAAAAAACH TuJAAAAAAAAAAAAAAAAABAAAAAAAAAAAABAAAAAAAAAAZHJzL1BLAQIUABQAAAAIAIdO4kCFbZ/Z 1gAAAAgBAAAPAAAAAAAAAAEAIAAAACIAAABkcnMvZG93bnJldi54bWxQSwECFAAUAAAACACHTuJA LRoTKyMCAAAoBAAADgAAAAAAAAABACAAAAAlAQAAZHJzL2Uyb0RvYy54bWxQSwUGAAAAAAYABgBZ AQAAugUAAAAA ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke on="f" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+                <v:textbox>
+                  <w:txbxContent>
+                    <w:p w14:paraId="48EF8396">
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:highlight w:val="lightGray"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                        <w:t>项目经历</w:t>
+                      </w:r>
+                    </w:p>
+                    <w:p w14:paraId="2797F573">
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                    <w:p w14:paraId="0BAFFC18">
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                    <w:p w14:paraId="7966EAD9">
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:txbxContent>
+                </v:textbox>
+              </v:shape>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="58D7493F">
+      <w:pPr>
+        <w:ind w:left="1050" w:hanging="1050" w:hangingChars="500"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251667456" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:align>center</wp:align>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>208280</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="6756400" cy="22860"/>
+                <wp:effectExtent l="0" t="0" r="25400" b="34290"/>
+                <wp:wrapNone/>
+                <wp:docPr id="5" name="直接连接符 5"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvCnPr/>
+                      <wps:spPr>
+                        <a:xfrm flipV="1">
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="6756705" cy="22905"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="line">
+                          <a:avLst/>
+                        </a:prstGeom>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="1">
+                          <a:schemeClr val="dk1"/>
+                        </a:lnRef>
+                        <a:fillRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="tx1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr/>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:line id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="20" style="position:absolute;left:0pt;flip:y;margin-top:16.4pt;height:1.8pt;width:532pt;mso-position-horizontal:center;mso-position-horizontal-relative:margin;z-index:251667456;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 bFBLBQYAAAAABgAGAFkBAACPBQAAAAA= ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke color="#000000 [3200]" joinstyle="round"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:line>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1323D513">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="66007A18">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs w:val="0"/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>2024.09 - 至今  | AV-UAV-HAP协同DNN推理卸载与资源分配优化 | 硕士课题研究项目</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="32B7DDCE">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>应用技术</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>Python、Pytorch、PDQN、强化学习、边缘计算、RF/FSO混合通信</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="01971718">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>项目描述</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：面向自动驾驶 AI 推理场景，构建 AV-UAV-HAP 三层协同系统，研究 DNN 推理卸载、链路选择与资源分配优化，降低端到端推理时延。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="069FED7F">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs w:val="0"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>核心工作</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="59070C32">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>将模型切分、RF/FSO 链路选择和资源分配建模为混合动作空间问题。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2CC038D6">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>基于 PyTorch 实现 PDQN 算法，联合优化离散决策与连续资源分配。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A7DF5A8">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>引入 Dueling Network 和动作 Mask，提升复杂信道下的决策稳定性。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="72C5251E">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>通过仿真实验验证算法在降低推理时延方面的有效性。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="39864816">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="69648D2A">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>2026.03 - 2026.06  |  LLaMA推理内核（mini-llama.cpp） | 个人独立开发者</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="35F24ADC">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="5481" w:hanging="5481" w:hangingChars="2600"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>应用技术：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>C++17、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>CMake</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>CUDA</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>cuBLAS</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>GGUF Parser</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>BPE</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>量化（Q8_0/Q4_0/Q4_1）</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>、多线程</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>线程池、</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2A9D40F0">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="5481" w:hanging="5460" w:hangingChars="2600"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>CTest</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>ASan、Python benchmark harness</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="79DBFC3D">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>项目描述</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>为了掌握大模型底层推理与计算加速的物理机制，设计并实现了一个轻量化、可本地编译运行的LLaMA式C++推理引擎。项目打通了GUFF权重解析、BPE分词、Qwen2格式映射、自回归KV缓存管理以及CPU/CUDA双硬件后端开发。目前可流畅运行在本地及云端运行真实的Qwen2 7B级别大语言模型。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="27F158ED">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>核心工作</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4EE888BA">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="4"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>CPU推理底座实现</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>手写张量结构、注意力机制、Samplers以及Prefill/Decoder执行流，并将其作为CUDA函数的高精度Correctness Baseline。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="693871B1">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="4"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>真实模型解析接入</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：基于二级制流设计GUFF模型与词表解析器，实现QWen2的Tensor映射与BEF特殊标记分词规则，扫清真实大模型的部署边界。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="60F4C897">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="4"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>量化算子与Dispatch</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：实现Q8_0,Q4_0 ,Q4_1离线量化布局校验，手写点积反量化乘法，设计轻量级的多线程矩阵乘法派发机制。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7B7D74EA">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="4"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>双端执行后端解耦</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：设计独立的可拔插后端接口，基于CMake开关维持CPU与CUDA Toolkit构建环境的隔离，保证本地macOS编译的稳定性。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1F7A4544">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="4"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>GPU常驻decoder优化</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：手写实现RMSNorm，SiLU，Elementwise以及RoPE CUDA算子核函数，利用CUDA Tensor串联显存常驻推理环，彻底消除热路径上的Host-to-Device激活值拷贝。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2EFF274B">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="4"/>
+        </w:numPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>评测与质量保障体系</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：建立以CPU Logits对准为基础的精度校验体系；构建包含CTest、ASan动态检测、CLI Smoke测试以及自动性能报告生成器在内的完整工程验证闭环。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="52D3E199">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>核心数据</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>远程RTX 4090D显卡上，真实QWen2 Q8_0模型的GPU推理速度达</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs w:val="0"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>56.37tokens/s</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>（同机CPU吞吐仅为0.51tokens/s，加速约</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs w:val="0"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>110.53倍</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>），单元测试通过率100%，自回归热路径H2D拷贝与CPU attention回退均为0。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F4DE11F">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="11829005">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2139A955">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="27DB0064">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="25DD2A39">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251670528" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="column">
+                  <wp:posOffset>-140335</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>116840</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="990600" cy="298450"/>
+                <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                <wp:wrapNone/>
+                <wp:docPr id="7" name="文本框 2"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvSpPr txBox="1">
+                        <a:spLocks noChangeArrowheads="1"/>
+                      </wps:cNvSpPr>
+                      <wps:spPr bwMode="auto">
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="990527" cy="298450"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:ln w="9525">
+                          <a:noFill/>
+                          <a:miter lim="800000"/>
+                        </a:ln>
+                      </wps:spPr>
+                      <wps:txbx>
+                        <w:txbxContent>
+                          <w:p w14:paraId="613A2E68">
+                            <w:pPr>
+                              <w:rPr>
+                                <w:rFonts w:hint="default" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                                <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+                              </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:highlight w:val="lightGray"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                                <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+                              </w:rPr>
+                              <w:t>社团经历</w:t>
+                            </w:r>
+                          </w:p>
+                        </w:txbxContent>
+                      </wps:txbx>
+                      <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                        <a:spAutoFit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202" style="position:absolute;left:0pt;margin-left:-11.05pt;margin-top:9.2pt;height:23.5pt;width:78pt;z-index:251670528;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="f" coordsize="21600,21600" o:gfxdata="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 WQEAALsFAAAAAA== ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke on="f" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+                <v:textbox style="mso-fit-shape-to-text:t;">
+                  <w:txbxContent>
+                    <w:p w14:paraId="613A2E68">
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:hint="default" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:highlight w:val="lightGray"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+                        </w:rPr>
+                        <w:t>社团经历</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:txbxContent>
+                </v:textbox>
+              </v:shape>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0F40893B">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="4410" w:hanging="4410" w:hangingChars="2100"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251669504" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:posOffset>-67945</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>175895</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="6756400" cy="22860"/>
+                <wp:effectExtent l="0" t="4445" r="6350" b="10795"/>
+                <wp:wrapNone/>
+                <wp:docPr id="6" name="直接连接符 6"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvCnPr/>
+                      <wps:spPr>
+                        <a:xfrm flipV="1">
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="6756705" cy="22905"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="line">
+                          <a:avLst/>
+                        </a:prstGeom>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="1">
+                          <a:schemeClr val="dk1"/>
+                        </a:lnRef>
+                        <a:fillRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="tx1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr/>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:line id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="20" style="position:absolute;left:0pt;flip:y;margin-left:-5.35pt;margin-top:13.85pt;height:1.8pt;width:532pt;mso-position-horizontal-relative:margin;z-index:251669504;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 LnhtbFBLBQYAAAAABgAGAFkBAACSBQAAAAA= ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke color="#000000 [3200]" joinstyle="round"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:line>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="65102E32">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>2020.09 - 2026.07  |  重庆邮电大学团委宣传部 | 新媒体宣传成员</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="54239DFE">
+      <w:pPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4C4D3119">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>负责校团委官方微博内容制作与宣传发布，围绕校园活动、团学工作及青年主题内容进行文案撰写和素材整理。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="107BEF13">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>协助完成微博日常运营工作，包括内容策划、信息整合、图文排版及发布跟进，保障宣传内容及时、准确传播。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="064E00C9">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>参与&#x201C;重邮青年&#x201D;抖音官方账号视频录制，配合完成拍摄执行、现场协作及宣传内容呈现。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1EB823B6">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251661312" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:posOffset>-69850</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>66040</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="989965" cy="374650"/>
+                <wp:effectExtent l="0" t="0" r="0" b="6350"/>
+                <wp:wrapNone/>
+                <wp:docPr id="14" name="文本框 2"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvSpPr txBox="1">
+                        <a:spLocks noChangeArrowheads="1"/>
+                      </wps:cNvSpPr>
+                      <wps:spPr bwMode="auto">
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="989965" cy="374650"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:ln w="9525">
+                          <a:noFill/>
+                          <a:miter lim="800000"/>
+                        </a:ln>
+                      </wps:spPr>
+                      <wps:txbx>
+                        <w:txbxContent>
+                          <w:p w14:paraId="1EFC34FC">
+                            <w:pPr>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:highlight w:val="lightGray"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                              <w:t>奖项荣誉</w:t>
+                            </w:r>
+                          </w:p>
+                        </w:txbxContent>
+                      </wps:txbx>
+                      <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                        <a:noAutofit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202" style="position:absolute;left:0pt;margin-left:-5.5pt;margin-top:5.2pt;height:29.5pt;width:77.95pt;mso-position-horizontal-relative:margin;z-index:251661312;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="f" coordsize="21600,21600" o:gfxdata="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 AQAAugUAAAAA ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke on="f" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+                <v:textbox>
+                  <w:txbxContent>
+                    <w:p w14:paraId="1EFC34FC">
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:highlight w:val="lightGray"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                        <w:t>奖项荣誉</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:txbxContent>
+                </v:textbox>
+              </v:shape>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="258297E8">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="4410" w:hanging="4410" w:hangingChars="2100"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251660288" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:align>center</wp:align>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>175895</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="6756400" cy="22860"/>
+                <wp:effectExtent l="0" t="0" r="25400" b="34290"/>
+                <wp:wrapNone/>
+                <wp:docPr id="16" name="直接连接符 16"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvCnPr/>
+                      <wps:spPr>
+                        <a:xfrm flipV="1">
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="6756705" cy="22905"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="line">
+                          <a:avLst/>
+                        </a:prstGeom>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="1">
+                          <a:schemeClr val="dk1"/>
+                        </a:lnRef>
+                        <a:fillRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="tx1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr/>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:line id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="20" style="position:absolute;left:0pt;flip:y;margin-top:13.85pt;height:1.8pt;width:532pt;mso-position-horizontal:center;mso-position-horizontal-relative:margin;z-index:251660288;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 eG1sUEsFBgAAAAAGAAYAWQEAAJEFAAAAAA== ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke color="#000000 [3200]" joinstyle="round"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:line>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E0A5349">
+      <w:pPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:ind w:left="420"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7744BD9D">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>比赛</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1AB33DBE">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>全国大学生数学竞赛重庆赛区一等奖</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A60288B">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>华教杯数学竞赛重庆赛区一等奖</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="33395AD6">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>第九届和第十届大唐杯移动通信技术大赛重庆赛区三等奖</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="64888121">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="51FB941D">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>奖学金</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>：研究生二等学业奖学金、研究生三等学业奖学金</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="330E55E3">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="17B3A66E">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>证书</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>：CET-6、计算机四级证书、人工智能训练师中级证书</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>华为HDDDA-IoT证书</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="26955E7A">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="02DC0FF2">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:hangingChars="200"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>个人荣誉</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US" w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>：校级优秀共青团员</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="25C657CE">
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="0"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="18EEEBEE">
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="0"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="34AF824F">
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="0"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="22F0C8DD">
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="0"/>
+        </w:numPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251662336" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="column">
+                  <wp:posOffset>-108585</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>116205</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="990600" cy="298450"/>
+                <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                <wp:wrapNone/>
+                <wp:docPr id="20" name="文本框 2"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvSpPr txBox="1">
+                        <a:spLocks noChangeArrowheads="1"/>
+                      </wps:cNvSpPr>
+                      <wps:spPr bwMode="auto">
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="990527" cy="298450"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:ln w="9525">
+                          <a:noFill/>
+                          <a:miter lim="800000"/>
+                        </a:ln>
+                      </wps:spPr>
+                      <wps:txbx>
+                        <w:txbxContent>
+                          <w:p w14:paraId="4E41B229">
+                            <w:pPr>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                              <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                                <w:highlight w:val="lightGray"/>
+                                <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                              </w:rPr>
+                              <w:t>自我评价</w:t>
+                            </w:r>
+                          </w:p>
+                        </w:txbxContent>
+                      </wps:txbx>
+                      <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                        <a:spAutoFit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202" style="position:absolute;left:0pt;margin-left:-8.55pt;margin-top:9.15pt;height:23.5pt;width:78pt;z-index:251662336;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="f" coordsize="21600,21600" o:gfxdata="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 AFkBAAC8BQAAAAA= ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke on="f" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+                <v:textbox style="mso-fit-shape-to-text:t;">
+                  <w:txbxContent>
+                    <w:p w14:paraId="4E41B229">
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:hint="eastAsia" w:ascii="华文新魏" w:hAnsi="微软雅黑" w:eastAsia="华文新魏"/>
+                          <w:highlight w:val="lightGray"/>
+                          <w:shd w:val="clear" w:color="auto" w:fill="95B3D7" w:themeFill="accent1" w:themeFillTint="99"/>
+                        </w:rPr>
+                        <w:t>自我评价</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:txbxContent>
+                </v:textbox>
+              </v:shape>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="62049ACF">
+      <w:pPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="65B3D0A9">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="仿宋" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251663360" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:posOffset>-67945</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>77470</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="6756400" cy="22860"/>
+                <wp:effectExtent l="0" t="0" r="25400" b="34290"/>
+                <wp:wrapNone/>
+                <wp:docPr id="19" name="直接连接符 19"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvCnPr/>
+                      <wps:spPr>
+                        <a:xfrm flipV="1">
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="6756705" cy="22905"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="line">
+                          <a:avLst/>
+                        </a:prstGeom>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="1">
+                          <a:schemeClr val="dk1"/>
+                        </a:lnRef>
+                        <a:fillRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="tx1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr/>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:line id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="20" style="position:absolute;left:0pt;flip:y;margin-left:-5.35pt;margin-top:6.1pt;height:1.8pt;width:532pt;mso-position-horizontal-relative:margin;z-index:251663360;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 Yy54bWxQSwUGAAAAAAYABgBZAQAAkwUAAAAA ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke color="#000000 [3200]" joinstyle="round"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:line>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">           </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5BEB04E5">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>性格开朗、乐于助人，做事严谨仔细、认真负责。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="25C02070">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>在团队中能够进行良好的互动，具有良好的沟通能力。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="147AA4CA">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia" w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:eastAsia="楷体" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>为人诚恳，性格开朗，积极进取，适应力强，勤奋好学，脚踏实地，有较强的团队精神。</w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr>
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="851" w:footer="992" w:gutter="0"/>
+      <w:cols w:space="425" w:num="1"/>
+      <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
