@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>林子阳 | 个人主页</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Noto+Sans+SC:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- 导航栏 - 苹果风格毛玻璃 -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <a href="#home" class="nav-logo">林子阳</a>
+            <div class="nav-links">
+                <a href="#about" class="nav-link">关于</a>
+                <a href="#education" class="nav-link">学历</a>
+                <a href="#skills" class="nav-link">技能</a>
+                <a href="#projects" class="nav-link">项目</a>
+                <a href="#awards" class="nav-link">荣誉</a>
+                <a href="#contact" class="nav-link">联系</a>
+            </div>
+            <button class="menu-btn" id="menuBtn" aria-label="菜单">
+                <span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- 移动端菜单 -->
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="#about" class="mobile-link">关于</a>
+        <a href="#education" class="mobile-link">学历</a>
+        <a href="#skills" class="mobile-link">技能</a>
+        <a href="#projects" class="mobile-link">项目</a>
+        <a href="#awards" class="mobile-link">荣誉</a>
+        <a href="#contact" class="mobile-link">联系</a>
+    </div>
+
+    <!-- Hero - 苹果风格大标题 -->
+    <section class="hero" id="home">
+        <div class="hero-bg">
+            <div class="hero-gradient hero-g1"></div>
+            <div class="hero-gradient hero-g2"></div>
+        </div>
+        <div class="hero-content">
+            <p class="hero-label">C++开发工程师</p>
+            <div class="hero-photo-wrap">
+                <img src="photo.jpeg" alt="林子阳" class="hero-photo">
+            </div>
+            <h1 class="hero-name">
+                <span class="name-char">林</span><span class="name-char">子</span><span class="name-char">阳</span>
+            </h1>
+            <p class="hero-desc">
+                重庆邮电大学 · 信息与通信工程 硕士在读<br>
+                热爱底层技术，专注于高性能计算与大模型推理
+            </p>
+            <div class="hero-cta">
+                <a href="#projects" class="cta-primary">
+                    查看项目
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </a>
+                <a href="#contact" class="cta-secondary">联系我</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 关于我 -->
+    <section class="section" id="about">
+        <div class="section-inner">
+            <div class="section-label">关于我</div>
+            <h2 class="section-heading">用底层技术构建<br>高效可靠的计算系统</h2>
+            <div class="about-grid">
+                <div class="about-card">
+                    <div class="about-card-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/><line x1="8" y1="23" x2="16" y2="23"/></svg>
+                    </div>
+                    <h3>自我介绍</h3>
+                    <p>性格开朗、乐于助人，做事严谨仔细、认真负责。在团队中能够进行良好的互动，具有良好的沟通能力与团队精神。为人诚恳，积极进取，适应力强，勤奋好学，脚踏实地。</p>
+                </div>
+                <div class="about-card">
+                    <div class="about-card-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+                    </div>
+                    <h3>基本信息</h3>
+                    <ul class="info-list">
+                        <li><span>性别</span><span>男</span></li>
+                        <li><span>年龄</span><span>24 周岁</span></li>
+                        <li><span>所在地</span><span>重庆</span></li>
+                        <li><span>邮箱</span><span>1123219982@qq.com</span></li>
+                        <li><span>电话</span><span>17888765010</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 教育背景 -->
+    <section class="section section-alt" id="education">
+        <div class="section-inner">
+            <div class="section-label">教育背景</div>
+            <h2 class="section-heading">学术经历</h2>
+            <div class="edu-list">
+                <div class="edu-item">
+                    <div class="edu-period">2024.09 – 2027.06</div>
+                    <div class="edu-detail">
+                        <h3>重庆邮电大学</h3>
+                        <p>信息与通信工程 · 工学硕士</p>
+                    </div>
+                </div>
+                <div class="edu-item">
+                    <div class="edu-period">2020.09 – 2024.06</div>
+                    <div class="edu-detail">
+                        <h3>重庆邮电大学</h3>
+                        <p>通信工程 · 工学学士</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 技能 - 苹果风格卡片 -->
+    <section class="section" id="skills">
+        <div class="section-inner">
+            <div class="section-label">专业技能</div>
+            <h2 class="section-heading">技术能力</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+                    </div>
+                    <h3>C/C++ 系统编程</h3>
+                    <p>掌握指针、内存管理、面向对象、模板、STL 等核心特性，具备良好的代码实现、工程调试与问题定位能力。熟悉 C++17 工程开发，了解 CMake 构建、模块化设计与单元测试。</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+                    </div>
+                    <h3>多线程与并发</h3>
+                    <p>了解多线程编程与并发处理思想，熟悉线程池、任务调度等基础机制，能够结合项目需求进行并行计算与性能优化。</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+                    </div>
+                    <h3>大模型推理</h3>
+                    <p>了解大模型推理基本流程，熟悉 Transformer、Attention、KV Cache、BPE 分词、量化推理等概念，具备 LLaMA/Qwen 类模型本地推理引擎开发经验。</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8"/><path d="M12 17v4"/></svg>
+                    </div>
+                    <h3>工具与工程化</h3>
+                    <p>熟练使用 Git、Visual Studio、Linux 基础命令及常用开发工具。能够借助 Claude Code、Cursor、GitHub Copilot 等 AI 辅助工具提升编码、调试和测试效率。</p>
+                </div>
+            </div>
+            <div class="skill-tags-section">
+                <span class="skill-tag">C/C++</span>
+                <span class="skill-tag">C++17</span>
+                <span class="skill-tag">CMake</span>
+                <span class="skill-tag">CUDA</span>
+                <span class="skill-tag">cuBLAS</span>
+                <span class="skill-tag">Python</span>
+                <span class="skill-tag">PyTorch</span>
+                <span class="skill-tag">多线程</span>
+                <span class="skill-tag">STL</span>
+                <span class="skill-tag">Transformer</span>
+                <span class="skill-tag">量化推理</span>
+                <span class="skill-tag">LLaMA/Qwen</span>
+                <span class="skill-tag">GGUF</span>
+                <span class="skill-tag">BPE</span>
+                <span class="skill-tag">Git</span>
+                <span class="skill-tag">Linux</span>
+                <span class="skill-tag">TCP/IP</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- 项目经历 - 重点展示 -->
+    <section class="section section-dark" id="projects">
+        <div class="section-inner">
+            <div class="section-label label-light">项目经历</div>
+            <h2 class="section-heading heading-light">精选项目</h2>
+
+            <!-- 项目 1: LLaMA 推理内核 -->
+            <div class="project-hero">
+                <div class="project-tag">个人独立开发</div>
+                <div class="project-meta">2026.03 – 2026.06</div>
+                <h3 class="project-name">LLaMA 推理内核 (mini-llama.cpp)</h3>
+                <p class="project-subtitle">轻量化 C++ 推理引擎 · 支持 CPU/CUDA 双后端 · 可运行真实 Qwen2 7B 模型</p>
+                <div class="project-overview">
+                    <p>为了掌握大模型底层推理与计算加速的物理机制，设计并实现了一个轻量化、可本地编译运行的 LLaMA 风格 C++ 推理引擎。项目打通了 GGUF 权重解析、BPE 分词、Qwen2 格式映射、自回归 KV 缓存管理以及 CPU/CUDA 双硬件后端开发。</p>
+                </div>
+                <div class="project-highlights">
+                    <div class="highlight-item">
+                        <h4>CPU 推理底座</h4>
+                        <p>手动实现张量结构、注意力机制、Sampler 以及 Prefill/Decoder 执行流，作为 CUDA 算子精度验证的 Correctness Baseline。</p>
+                    </div>
+                    <div class="highlight-item">
+                        <h4>真实模型接入</h4>
+                        <p>基于二进制流设计 GGUF 模型与词表解析器，实现 Qwen2 的 Tensor 映射与 BPE 特殊标记分词规则，打通真实大模型部署的完整链路。</p>
+                    </div>
+                    <div class="highlight-item">
+                        <h4>量化与 Dispatch</h4>
+                        <p>实现 Q8_0、Q4_0、Q4_1 离线量化布局校验，手写点积反量化乘法，设计轻量级多线程矩阵乘法派发机制。</p>
+                    </div>
+                    <div class="highlight-item">
+                        <h4>GPU 常驻 Decoder</h4>
+                        <p>手动实现 RMSNorm、SiLU、Elementwise 以及 RoPE CUDA 算子核函数，利用 CUDA Tensor 串联显存常驻推理环路，彻底消除热路径上的 Host-to-Device 激活值拷贝。</p>
+                    </div>
+                    <div class="highlight-item">
+                        <h4>质量保障体系</h4>
+                        <p>建立 CPU Logits 精度校验体系，构建 CTest、ASan 动态检测、CLI Smoke 测试及自动性能报告生成器的完整验证闭环。</p>
+                    </div>
+                </div>
+                <div class="project-metrics">
+                    <div class="metric">
+                        <span class="metric-value">56.37</span>
+                        <span class="metric-unit">tokens/s</span>
+                        <span class="metric-label">GPU 推理速度</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">110.53x</span>
+                        <span class="metric-unit"></span>
+                        <span class="metric-label">相对 CPU 加速比</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">100%</span>
+                        <span class="metric-unit"></span>
+                        <span class="metric-label">单元测试通过率</span>
+                    </div>
+                </div>
+                <div class="project-tech">
+                    <span>C++17</span><span>CMake</span><span>CUDA</span><span>cuBLAS</span><span>GGUF</span><span>BPE</span><span>量化</span><span>CTest</span><span>ASan</span>
+                </div>
+            </div>
+
+            <!-- 项目 2: DNN推理卸载 -->
+            <div class="project-hero project-alt">
+                <div class="project-tag">硕士课题研究</div>
+                <div class="project-meta">2024.09 – 至今</div>
+                <h3 class="project-name">AV-UAV-HAP 协同 DNN 推理卸载与资源分配优化</h3>
+                <p class="project-subtitle">车辆边缘计算 · 强化学习 · 混合动作空间优化</p>
+                <div class="project-overview">
+                    <p>面向自动驾驶 AI 推理场景，构建 AV-UAV-HAP 三层协同系统，研究 DNN 推理卸载、链路选择与资源分配优化，降低端到端推理时延。</p>
+                </div>
+                <div class="project-highlights">
+                    <div class="highlight-item">
+                        <h4>问题建模</h4>
+                        <p>将模型切分、RF/FSO 链路选择和资源分配建模为混合动作空间问题。</p>
+                    </div>
+                    <div class="highlight-item">
+                        <h4>算法实现</h4>
+                        <p>基于 PyTorch 实现 PDQN 算法，联合优化离散决策与连续资源分配。</p>
+                    </div>
+                    <div class="highlight-item">
+                        <h4>策略优化</h4>
+                        <p>引入 Dueling Network 和动作 Mask，提升复杂信道下的决策稳定性。</p>
+                    </div>
+                </div>
+                <div class="project-tech">
+                    <span>Python</span><span>PyTorch</span><span>PDQN</span><span>强化学习</span><span>边缘计算</span><span>RF/FSO</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 社团经历 -->
+    <section class="section" id="activities">
+        <div class="section-inner">
+            <div class="section-label">社团经历</div>
+            <div class="activity-card">
+                <div class="activity-period">2020.09 – 2026.07</div>
+                <h3>重庆邮电大学团委宣传部 · 新媒体宣传成员</h3>
+                <div class="activity-desc">
+                    <p>负责校团委官方微博内容制作与宣传发布，围绕校园活动、团学工作及青年主题内容进行文案撰写和素材整理。</p>
+                    <p>协助完成微博日常运营工作，包括内容策划、信息整合、图文排版及发布跟进，保障宣传内容及时准确传播。</p>
+                    <p>参与"重邮青年"抖音官方账号视频录制，配合完成拍摄执行、现场协作及宣传内容呈现。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 奖项荣誉 -->
+    <section class="section section-alt" id="awards">
+        <div class="section-inner">
+            <div class="section-label">奖项荣誉</div>
+            <h2 class="section-heading">荣誉与证书</h2>
+            <div class="awards-grid">
+                <div class="award-category">
+                    <h3>竞赛获奖</h3>
+                    <ul>
+                        <li>全国大学生数学竞赛重庆赛区 <strong>一等奖</strong></li>
+                        <li>华教杯数学竞赛重庆赛区 <strong>一等奖</strong></li>
+                        <li>第九届大唐杯移动通信技术大赛重庆赛区 <strong>三等奖</strong></li>
+                        <li>第十届大唐杯移动通信技术大赛重庆赛区 <strong>三等奖</strong></li>
+                    </ul>
+                </div>
+                <div class="award-category">
+                    <h3>奖学金</h3>
+                    <ul>
+                        <li>研究生二等学业奖学金</li>
+                        <li>研究生三等学业奖学金</li>
+                    </ul>
+                    <h3 style="margin-top: 20px;">个人荣誉</h3>
+                    <ul>
+                        <li>校级优秀共青团员</li>
+                    </ul>
+                </div>
+                <div class="award-category">
+                    <h3>证书资质</h3>
+                    <ul>
+                        <li>CET-6</li>
+                        <li>计算机四级证书</li>
+                        <li>人工智能训练师中级证书</li>
+                        <li>华为 HDDDA-IoT 证书</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 联系方式 -->
+    <section class="section section-dark contact-section" id="contact">
+        <div class="section-inner">
+            <div class="section-label label-light">联系我</div>
+            <h2 class="section-heading heading-light">期待与你交流</h2>
+            <p class="contact-intro">如果你对我的项目感兴趣，或希望进一步沟通，欢迎随时联系。</p>
+            <div class="contact-grid">
+                <a href="mailto:1123219982@qq.com" class="contact-item">
+                    <div class="contact-icon-wrap">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+                    </div>
+                    <span>1123219982@qq.com</span>
+                </a>
+                <a href="tel:17888765010" class="contact-item">
+                    <div class="contact-icon-wrap">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    </div>
+                    <span>17888765010</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <p class="footer-name">林子阳</p>
+            <p class="footer-info">C++开发工程师 · 重庆邮电大学 · 信息与通信工程 硕士在读</p>
+            <p class="footer-copy">&copy; 2026 林子阳. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
