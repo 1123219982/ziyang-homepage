@@ -288,7 +288,7 @@ ul { list-style: none; }
 
 .photo-ring {
     position: absolute;
-    inset: -6px;
+    inset: -8px;
     border-radius: 50%;
     border: 2px solid transparent;
     background: conic-gradient(var(--neon-cyan), var(--neon-purple), var(--neon-pink), var(--neon-cyan)) border-box;
@@ -298,18 +298,40 @@ ul { list-style: none; }
     animation: ringRotate 4s linear infinite;
 }
 
-@keyframes ringRotate {
-    to { transform: rotate(360deg); }
+.photo-ring::after {
+    content: '';
+    position: absolute;
+    inset: -4px;
+    border-radius: 50%;
+    background: conic-gradient(var(--neon-cyan), var(--neon-purple), var(--neon-pink), var(--neon-cyan)) border-box;
+    filter: blur(12px);
+    opacity: 0.4;
+    -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    animation: ringRotate 6s linear infinite reverse;
 }
 
 .hero-photo {
-    width: 130px;
-    height: 130px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     object-fit: cover;
+    object-position: 65% 20%;
     display: block;
     position: relative;
     z-index: 1;
+    filter: contrast(1.08) saturate(1.15) brightness(1.02);
+    transition: transform 0.4s ease, filter 0.4s ease;
+}
+
+.hero-photo:hover {
+    transform: scale(1.05);
+    filter: contrast(1.12) saturate(1.25) brightness(1.05);
+}
+
+@keyframes ringRotate {
+    to { transform: rotate(360deg); }
 }
 
 .hero-name {
